@@ -11,3 +11,9 @@
 [submodule "rdlocrand"]
 	path = rdlocrand
 	url = https://github.com/cran/rdlocrand
+[submodule "rdmulti"]
+	path = rdmulti
+	url = https://github.com/cran/rdmulti
+[submodule "rdpower"]
+	path = rdpower
+	url = https://github.com/cran/rdpower
