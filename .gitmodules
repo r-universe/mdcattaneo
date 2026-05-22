@@ -5,9 +5,18 @@
 [submodule "binsreg"]
 	path = binsreg
 	url = https://github.com/cran/binsreg
+[submodule "lpcde"]
+	path = lpcde
+	url = https://github.com/cran/lpcde
+[submodule "lpdensity"]
+	path = lpdensity
+	url = https://github.com/cran/lpdensity
 [submodule "rd2d"]
 	path = rd2d
 	url = https://github.com/cran/rd2d
+[submodule "rddensity"]
+	path = rddensity
+	url = https://github.com/cran/rddensity
 [submodule "rdlocrand"]
 	path = rdlocrand
 	url = https://github.com/cran/rdlocrand
