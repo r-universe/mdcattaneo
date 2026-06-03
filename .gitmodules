@@ -26,3 +26,6 @@
 [submodule "rdpower"]
 	path = rdpower
 	url = https://github.com/cran/rdpower
+[submodule "scpi"]
+	path = scpi
+	url = https://github.com/cran/scpi
