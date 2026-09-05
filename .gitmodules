@@ -11,6 +11,9 @@
 [submodule "lpdensity"]
 	path = lpdensity
 	url = https://github.com/cran/lpdensity
+[submodule "ramchoice"]
+	path = ramchoice
+	url = https://github.com/cran/ramchoice
 [submodule "rd2d"]
 	path = rd2d
 	url = https://github.com/cran/rd2d
